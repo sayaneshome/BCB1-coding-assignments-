@@ -1,4 +1,4 @@
-##Please install Python 2.7.10 and Numpy 1.10-1.
+
 ##Program for RNA 2-D folding using Nussinov algorithm.
 import numpy
 import array

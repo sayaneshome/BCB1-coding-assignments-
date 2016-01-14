@@ -1,4 +1,4 @@
-#Please install Python 2.7.10 and Numpy 1.10-1.Please make sure Numpy isnt installed in working directly.
+
 #Program for approximate pattern matching upto k mismatches.
 
 import numpy
