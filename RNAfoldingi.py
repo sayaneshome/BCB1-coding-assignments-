@@ -1,5 +1,5 @@
 
-##Program for RNA 2-D folding using Nussinov algorithm.
+##Program for RNA 2-D folding using Nussinov algorithm using dynamic programming.
 import numpy
 import array
 class Structure :

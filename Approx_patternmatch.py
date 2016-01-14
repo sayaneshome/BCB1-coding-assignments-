@@ -1,5 +1,5 @@
 
-#Program for approximate pattern matching upto k mismatches.
+#Program for approximate pattern matching upto k mismatches using dynamic programming.
 
 import numpy
 import array   
