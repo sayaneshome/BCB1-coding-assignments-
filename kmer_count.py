@@ -1,3 +1,5 @@
+#k-mer count from a string
+
 string_inp ='ACGTTGCATGTCGCATGATGCATGAGAGCT'
 k = 4
 
